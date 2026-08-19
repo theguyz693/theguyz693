@@ -1,14 +1,14 @@
 # Hi there 👋, I'm  
 
 🎓 Currently pursuing **B.Tech in CSE (AIML)** – 3rd Year  
-💻 Learning to code with **C, Python, JavaScript**  
+💻 Learning to code with **C++, Python, JavaScript**  
 🌐 Exploring **HTML, Node.js**, and tools like **GitHub, Jira**  
 🤖 Tinkering with random projects 
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on random projects (made using AI 😅) 
+- 🔭 I’m currently working on random projects 
 - 🌱 I’m continuously learning new technologies & sharpening problem-solving skills  
 - 🛠️ Experimenting with different tools & frameworks  
 - 🎮 I enjoy exploring cool innovations  
